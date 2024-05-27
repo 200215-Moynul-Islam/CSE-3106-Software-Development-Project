@@ -10,7 +10,7 @@ This repository contains the source code for an advanced calculator developed as
 5. Graphical User Interface (GUI) for interactive use
 
 ## Installation
-To clone and run this project, you'll need Git and Java Development Kit (JDK) installed on your computer.
+To clone and run this project, you'll need Git and Java Development Kit (JDK) installed on your computer. Execute following git command for installation
 
 <!--Clone the repository-->
 git clone https://github.com/200215-Moynul-Islam/CSEKU_SDP_2023_An_Advanced_Calculator.git
